@@ -1,4 +1,4 @@
-Estimado alumno, las líneas abajo se copió del GitHub
+# Estimado alumno, las líneas abajo se copió del GitHub
 
 …or create a new repository on the command line
 echo "# lab" >> README.md
@@ -17,7 +17,7 @@ git push -u origin main
 
 Fin del GitHub
 ----
-Estimado alumno, las líneas abajo LO TIENES QUE PRACTICAR
+# Estimado alumno, las líneas abajo LO TIENES QUE PRACTICAR
 
 * Iniciar git
 * Para ver en qué carpeta estoy?
@@ -77,4 +77,9 @@ git push -u origin main
 Se creó un archivo nuevo
 git add .
 git commit -a -m "se agregó el archivo README.md"
+git push -u origin main
+
+Realizo modificaciones
+git status
+git commit -a -m "se modificó el archivo README.md"
 git push -u origin main
