@@ -17,7 +17,7 @@ git push -u origin main
 
 Fin del GitHub
 ----
-# Estimado alumno, las líneas abajo LO TIENES QUE PRACTICAR
+# Estimado alumno(a), las líneas abajo LO TIENES QUE PRACTICAR
 
 * Iniciar git
 * Para ver en qué carpeta estoy?
